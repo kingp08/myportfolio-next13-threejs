@@ -21,7 +21,7 @@ const threejs = '/assets/tech/threejs.svg'
 
 export const USER_NAME = 'Martin';
 export const USER_EXPERIENCE = 6;
-export const USER_DOMAIN = `localhost:${process.env.PORT}`;
+export const USER_DOMAIN = `localhost:3000`;
 
 export const GITHUB_LINK = 'https://github.com/m001108'
 export const LINKEDIN_LINK = 'https://www.linkedin.com/in/m001108'
